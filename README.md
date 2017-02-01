@@ -4,10 +4,11 @@ This is a sample R ShinyApp application which shows how to query data from a SQL
 # Usage Guide
 1. Clone the repository to your local machine
 2. Create or open your Microsoft Azure account
-3. Restore the sample database included in the solution to a SQL Azure instance on your Azure subscription
-4. Update the connection settings in your copy of the solution with the details of the database server and database name you just restored
-5. Run the solution locally, or publish to ShinyApp to have the solution visualise the geo-spacial data in the SQL Azure database to a world map, and dynamic charts
-6. Customise as you see fit!
+3. Restore the sample Sql Azure Database File in the SampleSqlAzureDatabaseFile folder to a SQL Azure Server in your Azure Subscription. If you don't have a SQL Azure Server yet, create one as per https://docs.microsoft.com/en-us/azure/sql-database/sql-database-get-started
+4. Update the connection settings in your copy of the solution  to replace  **YourSqlAzureDatabaseHere** with the name of your SQL Azure Server and database name you just restored
+5. Run the solution locally with the "local" connection string uncommented. The solution will launch a ShinyApp application which connects to your SQL Azure database and visualise the geo-spacial data in the SQL Azure database to a world map, and dynamic charts
+6. To deploy the application to ShinyApps.io, uncomment the connection string commented as "Uncomment this line when deploying to Shiny" and publish. 
+7. Customise as you see fit!
 
 # Contributing
 
