@@ -1,6 +1,9 @@
 # Overview
 This is a sample R ShinyApp application which shows how to query data from a SQL Azure database in the Microsoft Azure cloud and visualise that data, which contains geospacial coordinates, onto a World Map. 
 
+#Demo Screenshot
+![Demo Chart](DemoScreenshot.png)
+
 # Usage Guide
 1. Clone the repository to your local machine
 2. Create or open your Microsoft Azure account
