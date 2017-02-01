@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{DA7A21FA-8162-4350-AD77-A8D1B671F3ED}") = "SampleRVisualisationDashboard", "SampleRVisualisationDashboard\SampleRVisualisationDashboard.rxproj", "{A6FDAA57-CAD3-459D-BFE9-E514F406908C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6FDAA57-CAD3-459D-BFE9-E514F406908C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6FDAA57-CAD3-459D-BFE9-E514F406908C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6FDAA57-CAD3-459D-BFE9-E514F406908C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6FDAA57-CAD3-459D-BFE9-E514F406908C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
